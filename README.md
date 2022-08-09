@@ -2,7 +2,7 @@
 
 Kit de Jogo criado com material traduzido em Português Brasileiro a partir do Quickstart do Urban Shadows 2E. Esta não é uma tradução de todo o conteúdo do livro, mas das jogadas, arquétipos e qualquer material usado para consulta nas sessões de jogo.
 
-> Você ainda vai precisar do material original em inglês do quickstart. O link está abaixo.
+     Você ainda vai precisar do material original em inglês do quickstart. O link está abaixo.
 
 # MATERIAL OFICIAL
 

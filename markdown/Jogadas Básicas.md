@@ -1,3 +1,5 @@
+# JOGADAS BÁSICAS
+
 ## PARTIR PRA VIOLÊNCIA
 
 Quando você ***partir pra violência***, teste com Sangue. Com um acerto, cause dano conforme estabelecido e a sua oposição escolhe 1:

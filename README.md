@@ -1,4 +1,4 @@
-# URBAN SHADOWS 2E: KIT DO JOGO
+# URBAN SHADOWS 2E: KIT DE JOGO
 
 Kit de Jogo criado com material traduzido em Português Brasileiro a partir do Quickstart do Urban Shadows 2E. Esta não é uma tradução de todo o conteúdo do livro, mas das jogadas, arquétipos e qualquer material usado para consulta nas sessões de jogo.
 

@@ -1,3 +1,5 @@
+# JOGADAS DE FACÇÃO
+
 ## ATACAR ABERTAMENTE UMA FACÇÃO
 
 Quando uma facção ***atacar abertamente*** outra facção, teste com **a diferença entre os Tamanhos das duas facções**. Com um acerto, a facção alvo sacrifica uma vantagem adequada ou perde um ponto de Tamanho, ela escolhe. Com 7-9, a facção atacante deve sacrificar uma vantagem adequada ou também perde um ponto de Tamanho. Com um erro, o alvo na verdade ativa uma armadilha inteligente; ele captura ou destrói uma vantagem ou reduz o Tamanho do atacante, ele escolhe.

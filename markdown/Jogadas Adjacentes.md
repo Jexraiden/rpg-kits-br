@@ -1,3 +1,5 @@
+# JOGADAS ADJACENTES
+
 ## JOGADAS DE DÍVIDA
 
 Quando você ***fazer um favor a alguém***, ela deve uma Dívida a você.

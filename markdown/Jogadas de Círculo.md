@@ -1,3 +1,5 @@
+# JOGADAS DE CÍRCULO
+
 ## RECONHECER A PESSOA
 
 Quando você ***reconhecer a pessoa*** ou vice-versa, teste com **o Círculo do alvo**. Com um acerto, você conhece a sua reputação; a MJ lhe dirá o que a maioria das pessoas sabem sobre ela. Com 10+, você já lidou com ela antes; descubra algo interessante e útil sobre a pessoa ou ela possui uma Dívida contigo, você escolhe. Com um erro, você não a reconhece ou está lhe devendo, a MJ escolhe.

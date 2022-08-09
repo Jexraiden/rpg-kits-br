@@ -10,4 +10,4 @@ Kit de Jogo criado com material traduzido em Português Brasileiro a partir do Q
 
 # Notas da Tradução
 
-Você pode usar, copiar, editar, e fazer o que quiser com este material. Seja feliz 😎.
+Você pode usar, copiar, editar, e fazer o que quiser com este material. Seja feliz 😎. O material principal está todo em markdown.

@@ -6,7 +6,7 @@ Kit de Jogo criado com material traduzido em Português Brasileiro a partir do Q
 
 # Material Oficial
 
-> Criado pela [Magpie Games](https://magpiegames.com/).
+     Criado pela [Magpie Games](https://magpiegames.com/).
 
 - [Urban Shadows 2E Quickstart](https://www.drivethrurpg.com/product/333500/Urban-Shadows-2nd-Ed-Quickstart): Permite começar qualquer campanha de Urban Shadows para quem já jogou a primeira edição ou entende de outros jogos no estilo Powered by the Apocalypse.
 

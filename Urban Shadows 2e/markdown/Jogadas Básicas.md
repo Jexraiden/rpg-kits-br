@@ -14,6 +14,8 @@ Com 10+, você também escolhe 1:
 - Você toma algo do alvo.
 - Você cria uma oportunidade para um aliado.
 
+---
+
 ## ESCAPAR DE UMA SITUAÇÃO
 
 Quando você tomar vantagem de uma abertura para ***escapar de uma situação***, teste com Sangue. Com um acerto, você escapa e escolhe 1. Em 7-9, a MC escolhe 1 também:
@@ -24,9 +26,13 @@ Quando você tomar vantagem de uma abertura para ***escapar de uma situação***
 - Você fica em Dívida com uma PNJ por lhe ajudar.
 - Você cede aos seus instintos e marca corrupção.
 
+---
+
 ## PERSUADIR UMA PNJ
 
 Quando você ***persuadir uma PNJ*** com sedução, promessas ou ameaças, teste com Coração. Com um acerto, o alvo concorda com você e faz o que pediu. Com 7-9, o alvo fará uma contra proposta ou exige algum pagamento (uma Dívida, um favor, recursos) antes de seguir com sua exigência. Se você ***cobrar uma Dívida*** com a PNJ antes de fazer o teste, adicione +3 em seu valor total.
+
+---
 
 ## MANJAR ALGUÉM
 
@@ -39,6 +45,8 @@ Quando você ***manjar alguém***, teste com Mente. Com um acerto, pergunte 2. E
 - Como posso levar sua personagem a [x]?
 - Como posso colocar a sua personagem em Dívida comigo?
 
+---
+
 ## ENGANAR, DISTRAIR OU TRAPACEAR
 
 Quando você tentar ***enganar, distrair ou trapacear alguém***, teste com Mente. Com um acerto, o alvo é enganado, pelo menos por enquanto. Com 10+, escolha 3. Com 7-9, escolha 2:
@@ -48,17 +56,25 @@ Quando você tentar ***enganar, distrair ou trapacear alguém***, teste com Ment
 - Você confunde o alvo por algum tempo.
 - Você evita implicações futuras.
 
+---
+
 ## MANTER A CALMA
 
 Quando as coisas ficam tensas e você ***manter a calma***, diga à MC qual é a situação que deseja evitar, e teste com Espírito. Com 10+, tudo fica bem. Com 7-9, a MC vai dizer o que isso lhe custará.
+
+---
 
 ## LIBERAR O PODER
 
 Quando você ***liberar o poder dentro de si***, escolha uma habilidade de seu arquétipo e teste com Espírito. Com um acerto, marque corrupção e ative a habilidade; a MC vai dizer como o efeito é custoso, limitado ou instável. Em 10+, ignore a corrupção ou as complicações, você escolhe qual.
 
+---
+
 ## DAR UMA MÃO OU FICAR NO CAMINHO
 
 Quando você ***dar uma mão*** ou ***ficar no caminho*** depois de que uma PJ já tenha feito um teste, teste com o Círculo do alvo. Com um acerto, o alvo recebe +1 ou -2 no teste. Com 7-9, você se expõe ao perigo, implicações, ou custo.
+
+---
 
 ## JOGADAS AVANÇADAS
 

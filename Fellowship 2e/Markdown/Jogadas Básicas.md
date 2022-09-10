@@ -12,32 +12,32 @@
 
 **...forçá-lo a recuar**, teste com Coragem. **Em 10+**, o alvo recua. Ele não voltará tão cedo.
 
-**...superá-lo, aterrorizá-lo ou dominá-lo**, teste com Graciosidade. **Em 10+**, o alvo admita a derrota e não vai desafiar você novamente por vontade própria.
+**...superá-lo, aterrorizá-lo ou dominá-lo**, teste com Graciosidade. **Em 10+**, o alvo admite a derrota e não vai desafiar você novamente por vontade própria.
 
 **...desativá-lo ou nocauteá-lo**, teste com Juízo. **Em 10+**, o alvo fica fisicamente incapacitado e incapaz de continuar.
 
 **...mostrá-lo o erro de suas ações**, teste com Sabedoria. **Em 10+**, você *Forja um Vínculo* com o alvo e ele não poderá machucá-lo.
 
-**Em 7-9**, você causa dano no alvo e perca sua vantagem sobre ele. **Se algum aliado estava *Mantendo o Alvo Ocupado***, não está mais.
+**Em 7-9**, você causa dano no alvo e perde a vantagem sobre ele. **Se algum aliado estava *Mantendo o Alvo Ocupado***, não está mais.
 
 **Em 6-**, você perde a vantagem e deve encarar retaliações.
 
-**Se você *Terminar com o Alvo* usando uma arma com Munição**, use 1 de Munição. **Se você não tiver Munição**, você não pode *Terminar com o Alvo* com aquela arma.
+**Se você *Terminar com o Alvo* usando uma arma com Munição**, use 1 de Munição. **Se você não tiver Munição**, não pode *Terminar com o Alvo* com aquela arma.
 
-**Se você possuir o atributo Desajeitado**, você sofre -1 para *Terminar com o Alvo*.
+**Se tiver o atributo Desajeitado**, você sofre -1 para *Terminar com o Alvo*.
 
 > ### *O que é uma Vantagem?*
-> Uma **Vantagem** é qualquer meio de superioridade ficcional que você possui sobre alguém. **Quando você fizer algo que soa como uma vantagem**, então você possui uma vantagem. **Se o alvo estiver melhor que você**, então não possui uma vantagem, e precisará virar a mesa de alguma maneira se quiser *Terminar com o Alvo*.
+> Uma **Vantagem** é qualquer meio de superioridade ficcional que você possui sobre alguém. **Quando fizer algo que soa como uma vantagem**, então você possui uma vantagem. **Se o alvo estiver melhor que você**, então não possui uma vantagem, e precisará virar a mesa de alguma maneira se quiser *Terminar com o Alvo*.
 
 ---
 
 ## SUPERAR `(SANGUE)`
 
-**Quando você tentar evitar, redirecionar ou evitar o dano que algo causará**, teste com Sangue. Você pode *Superar* qualquer obstáculo, ameaça, Corte, ou Jogada feita contra si ou contra algum aliado, se estiver em posição para agir e tiver os meios para impedir.
+**Quando você tentar evitar, redirecionar ou impedir a complicação que algo causará**, teste com Sangue. Você pode *Superar* qualquer obstáculo, ameaça, Corte, ou Jogada feita contra si ou contra algum aliado, se estiver em posição para agir e tiver os meios para impedir.
 
 **Em 10+**, você impede o obstáculo, ameaça, Corte ou Jogada de causarem complicações.
 
-**Em 7-9**, escolha um: *Pagar um preço* para conseguir o resultado 10+ ou criar uma solução temporária. Uma solução temporará irá atrasar a ameaça, mas quando a hora chegar, ela voltará com força total (o Soberano lhe dirá quando).
+**Em 7-9**, escolha um: *Pagar um Preço* para conseguir o resultado 10+ ou criar uma solução temporária. Uma solução temporária irá atrasar a ameaça, mas quando a hora chegar, ela voltará com força total (o Soberano lhe dirá quando).
 
 *Superar* com uma arma não custa Munição.
 
@@ -57,7 +57,7 @@
 
 ## CAIR FORA `(GRACIOSIDADE)`
 
-**Quando você precisar chegar em algum lugar fora de alcance ou fora de visão**, diga para onde você está indo e teste com Graciosidade.
+**Quando você precisar chegar em algum lugar fora de alcance ou fora de visão**, diga para onde está indo e teste com Graciosidade.
 
 **Em 10+**, escolha dois. **Em 7-9**, escolha um:
 

@@ -10,5 +10,5 @@ Aproveite também para compartilhar este repositório e ajudar quem possui dific
 
 # Traduções
 
-- [Urban Shadows 2E](/Urban%20Shadows%202e/README.md)
-- [Fellowship 2E](/Fellowship%202e/README.md)
+- [Urban Shadows 2E](/Urban%20Shadows%202e/README.md) `andamento`
+- [Fellowship 2E](/Fellowship%202e/README.md) `andamento`
